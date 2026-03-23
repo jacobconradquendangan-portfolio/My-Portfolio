@@ -38,4 +38,4 @@ The demo highlights the "Aegis Shield," which is active by default to protect se
 ## Achievement & Recognition
 Our team, **Keyboard Warriors**, secured 2nd Place with a narrow margin of only 0.40 from the top spot, highlighting the high technical standard of our implementation.
 
-![Hackathon Certificate](./awards/hackathon-second-place.jpg)
+![Hackathon Certificate](./awards/hackathon-second-place.png)
