@@ -7,7 +7,7 @@ The Problem: Fragmented and unreliable property listings for students and young 
 The Solution: A localized property-comparison engine that prioritizes proximity to transit, verified interior visuals, and price transparency.
 
 ## Functional MVP (Debug APK)
-[Download the MetroStay Debug APK](App_Build/MetroStay_Debug.apk)
+[Download the MetroStay Debug APK](App_Build/metro_stay.apk)
 Experience the live application. This build showcases the core comparison engine and UI flow.
 
 ## Video Walkthrough
