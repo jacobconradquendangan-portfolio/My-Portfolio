@@ -21,6 +21,17 @@ This prototype is built using a "No-Framework" approach to demonstrate mastery o
 * **Logic:** Vanilla JavaScript for state management (Subject Cart) and DOM manipulation.
 * **Persistence:** Utilizes `localStorage` for session handling and user personalization.
 
+## System Demo
+Click the link below to watch the full walkthrough of the EduTrack Enrollment System:
+
+[Watch the EduTrack Demo Video](https://drive.google.com/drive/u/1/folders/10q7AKEjl75BsHVdgl8UxsgUNFzR8Waic)
+
+---
+### What this video covers:
+* User Authentication & Role-based Access
+* Subject Prerequisite Logic
+* Real-time Enrollment Confirmation
+
 ## How to Launch
 1. Open the root folder in your code editor.
 2. Launch `login.html` in a web browser.
