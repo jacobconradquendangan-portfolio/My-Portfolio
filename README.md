@@ -1,7 +1,7 @@
 # Jacob Conrad Quendangan
 ### Information Systems Specialist | Solutions Architect
 
-[![Deployment Status](https://vercelbadge.vercel.app/api/your-vercel-project-link)](https://your-portfolio-link.vercel.app)
+[![Deployment Status](https://vercelbadge.vercel.app/api/your-vercel-project-link)]([https://your-portfolio-link.vercel.app](https://my-portfolio-six-pi-33.vercel.app/))
 
 ## Featured Tracks
 1. **[Industry Wins](./01_Industry_Wins_Awards)**: 1st Place Industry Choice (MNLFlow) & Hackathon 2nd Place.
