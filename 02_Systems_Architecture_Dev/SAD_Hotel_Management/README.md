@@ -21,10 +21,10 @@ Using Figma to ensure high-fidelity and professional clarity, I developed a mult
 
 ### 2. Structural Modeling (System Organization)
 * **Class Diagram:** Details the static structure of the system, including attributes and methods for entities like `Room`, `Booking`, and `User`.
-![Class Diagram](./Blueprints/Structural_Models/Class_Diagram.jpg)
+![Class Diagram](./Blueprints/Structural_Models/Class_Diagram.png)
 
 * **Package Diagram:** Illustrates the high-level organization of the software's subsystems (e.g., Billing Module, Inventory Module) and their dependencies.
-![Package Diagram](./Blueprints/Structural_Models/Package_Diagram.jpg)
+![Package Diagram](./Blueprints/Structural_Models/Package_Diagram.png)
 
 ### 3. Process Modeling (Data Flow)
 * **Data Flow Diagram (Lvl 0):** Breaks down the internal data movement, specifically how guest information is transformed into invoices and room status updates.
