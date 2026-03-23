@@ -17,7 +17,7 @@ A complete walkthrough of the user journey, from initial search to final propert
 ## MVP Interface & Business Logic
 | Branding & Vision | Property Discovery | User Favorites | Financial Modeling |
 | :---: | :---: | :---: | :---: |
-| ![Home](Media/Home.png) | ![Search](Media/Search.png) | ![Favorites](Media/Favorites.png) | ![Financials](Media/Financials.png) |
+| ![Home](Media/Home.jpg) | ![Search](Media/Search.jpg) | ![Favorites](Media/Favorites.jpg) | ![Financials](Media/Financials.png) |
 
 ## Technopreneurship & Business Intelligence
 This project involved a comprehensive 27-page Business Case and a data-driven financial model:
