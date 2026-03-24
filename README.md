@@ -36,4 +36,4 @@
 * **Design:** BPMN 2.0, UML Modeling, AS-IS & TO-BE Analysis, Figma Prototyping
 
 ---
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Live Portfolio](https://my-portfolio-six-pi-33.vercel.appoo/)
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Live Portfolio](https://portfolio-website-psi-five-95.vercel.app/)
