@@ -50,4 +50,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Live Portfolio](https://portfolio-website-psi-five-95.vercel.app/)
+[LinkedIn]() | [Live Portfolio](https://portfolio-website-psi-five-95.vercel.app/)
