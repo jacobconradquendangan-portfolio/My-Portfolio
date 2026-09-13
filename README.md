@@ -2,7 +2,7 @@
 ### BS Information Systems | Aspiring Solutions Architect & Quality Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CIIT-College%20of%20Arts%20and%20Technology-blue?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/CIIT-College%20of%20Innovation%20and%20Integrated%20Technology-blue?style=for-the-badge&logo=google-classroom&logoColor=white" />
   <img src="https://img.shields.io/badge/BSIS-4th%20Year-orange?style=for-the-badge" />
   <a href="https://portfolio-website-v2-gray.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
