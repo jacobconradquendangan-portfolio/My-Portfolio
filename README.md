@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/CIIT-College%20of%20Arts%20and%20Technology-blue?style=for-the-badge&logo=google-classroom&logoColor=white" />
   <img src="https://img.shields.io/badge/BSIS-3rd%20Year-orange?style=for-the-badge" />
-  <img src="https://vercelbadge.vercel.app/api/jacobconradquendangan-portfolio/portfolio-website-psi-five-95?style=for-the-badge" />
+  <img src="https://vercelbadge.vercel.app/api/jacobconradquendangan-portfolio/portfolio-website-v2-gray?style=for-the-badge" />
 </p>
 
 > "Bridging the gap between robust system architecture and data-driven reliability."
@@ -50,4 +50,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-[LinkedIn]() | [Live Portfolio](https://portfolio-website-psi-five-95.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/jacob-conrad-quendangan-176525435) | [Live Portfolio](https://portfolio-website-v2-gray.vercel.app/)
