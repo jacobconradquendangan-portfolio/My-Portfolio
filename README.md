@@ -3,8 +3,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/CIIT-College%20of%20Arts%20and%20Technology-blue?style=for-the-badge&logo=google-classroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/BSIS-3rd%20Year-orange?style=for-the-badge" />
-  <img src="https://vercelbadge.vercel.app/api/jacobconradquendangan-portfolio/portfolio-website-v2-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BSIS-4th%20Year-orange?style=for-the-badge" />
+  <a href="https://portfolio-website-v2-gray.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 > "Bridging the gap between robust system architecture and data-driven reliability."
