@@ -1,6 +1,6 @@
 ﻿<p align="center">
   <a href="https://github.com/jacobconradquendangan-portfolio/My-Portfolio">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jacob%20Conrad%20Quendangan&fontSize=40&fontAlign=50&fontAlignY=35&desc=BS%20Information%20Systems%20%7C%20Aspiring%20Solutions%20Architect%20%26%20Quality%20Engineer&descSize=16&descAlignY=55&descColor=ffffff" width="100%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Jacob+Conrad+Quendangan;BS+Information+Systems+|+Aspiring+Solutions+Architect+%26+Quality+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,34 +15,38 @@
 </p>
 
 <p align="center">
-  <b>"Bridging the gap between robust system architecture and data-driven reliability."</b>
+  <i>Bridging the gap between robust system architecture and data-driven reliability.</i>
 </p>
 
 ---
 
-<p align="center">
-  <b>Hello, I'm Jacob Conrad Quendangan</b><br />
-  A BS Information Systems student specializing in <b>Systems Architecture</b>, <b>Software Quality Engineering</b>, and <b>Data Analytics</b>. I build scalable, reliable systems and turn data into actionable insights — from concept through deployment.
-</p>
+## About Me
+
+Hello, I'm **Jacob Conrad Quendangan**, a BS Information Systems student specializing in **Systems Architecture**, **Software Quality Engineering**, and **Data Analytics**. I build scalable, reliable systems and turn data into actionable insights — from concept through deployment.
 
 ---
 
-## Technical Exposure
+## Skills
 
 <table>
   <tr>
-    <td><b>Testing & Quality Engineering</b><br />
+    <td><b>Testing & Quality Engineering</b></td>
+    <td><b>Data & Analytics</b></td>
+    <td><b>Development & Design</b></td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    <td><b>Data & Analytics</b><br />
+    <td>
       <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=power-bi&logoColor=black" />
       <img src="https://img.shields.io/badge/-Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
-    <td><b>Development & Design</b><br />
+    <td>
       <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
