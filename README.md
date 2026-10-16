@@ -1,7 +1,6 @@
 ﻿<p align="center">
-  <a href="https://github.com/jacobconradquendangan-portfolio/My-Portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Jacob+Conrad+Quendangan;BS+Information+Systems+|+Aspiring+Solutions+Architect+%26+Quality+Engineer" alt="Typing SVG" />
-  </a>
+  <b>Jacob Conrad Quendangan</b><br />
+  <sub>BS Information Systems | Aspiring Solutions Architect & Quality Engineer</sub>
 </p>
 
 <p align="center">
@@ -28,25 +27,25 @@ Hello, I'm **Jacob Conrad Quendangan**, a BS Information Systems student special
 
 ## Skills
 
-<table>
+<table width="100%">
   <tr>
-    <td><b>Testing & Quality Engineering</b></td>
-    <td><b>Data & Analytics</b></td>
-    <td><b>Development & Design</b></td>
+    <td width="33.3%" align="center"><b>Testing & Quality Engineering</b></td>
+    <td width="33.3%" align="center"><b>Data & Analytics</b></td>
+    <td width="33.3%" align="center"><b>Development & Design</b></td>
   </tr>
   <tr>
-    <td>
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    <td>
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=power-bi&logoColor=black" />
       <img src="https://img.shields.io/badge/-Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
-    <td>
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -69,19 +68,19 @@ Hello, I'm **Jacob Conrad Quendangan**, a BS Information Systems student special
 
 ## Featured Achievements
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%">
+    <td width="33.3%">
       <b>MNLFlow Transit App</b><br />
       1st Place Industry Choice — evaluated by Cebu Pacific<br />
       <sub><i>Industry Hackathon</i></sub>
     </td>
-    <td width="33%">
+    <td width="33.3%">
       <b>Aegis IDaaS</b><br />
       2nd Place Institutional Hackathon — Next.js / Firebase<br />
       <sub><i>Next.js · Firebase</i></sub>
     </td>
-    <td width="33%">
+    <td width="33.3%">
       <b>CESCon Sales Blitz</b><br />
       #1 Sales Rank — Food Category (Demand Forecasting)<br />
       <sub><i>Data Analytics</i></sub>
@@ -93,12 +92,12 @@ Hello, I'm **Jacob Conrad Quendangan**, a BS Information Systems student special
 
 ## Certifications & Credentials
 
-<table>
+<table width="100%">
   <tr>
-    <td width="25%"><b>HubSpot</b><br />Sales & Marketing Hub Software</td>
-    <td width="25%"><b>CSC Professional</b><br />Civil Service Commission</td>
-    <td width="25%"><b>Lean Six Sigma Whitebelt</b><br />Process Improvement</td>
-    <td width="25%"><b>AI Engineering for Software Development</b><br />Tech Certificate</td>
+    <td width="25%" align="center"><b>HubSpot</b><br />Sales & Marketing Hub Software</td>
+    <td width="25%" align="center"><b>CSC Professional</b><br />Civil Service Commission</td>
+    <td width="25%" align="center"><b>Lean Six Sigma Whitebelt</b><br />Process Improvement</td>
+    <td width="25%" align="center"><b>AI Engineering for Software Development</b><br />Tech Certificate</td>
   </tr>
 </table>
 
